@@ -1,0 +1,15 @@
+### Files
+- [notes](notes/): PDF and docx notes.
+- [problems](problems/): Practice papers and solutions to some of them.
+- [basics](basics/): Basics of C++ and classes.
+- [arrays and classes](arrays-classes/): Arrays and classes together.
+- [sort](sort/): ALL sort algorithms.
+- [search](search/): ALL search algorithms.
+- [standalone programs](standalone-programs/): Individual useful or nonsense(fun) programs.
+- [programs using classes](programs-using-classes/): Programs involving classes.
+- [multi-file-class](multi-file-class/): A class in multiple files.
+- [inheritance](inheritance/): All types of inheritance with examples.
+- [dynamic memory](dynamic-mem/): Dynamic memory.
+- [stacks and queues](stacks-and-queues/): Stacks and queues.
+- [linked list](linked-list/): Linked list.
+- [util](util/): Reusable code.
