@@ -7,3 +7,4 @@
 ### Rules
 1. Pull requests will be merged ONLY AFTER HARSH APPROVES.
 2. Code has to STRICTLY follow [these](my-code-style.md) guidelines.
+3. None of the above rules need to be followed.
