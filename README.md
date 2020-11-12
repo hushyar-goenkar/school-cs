@@ -1,5 +1,5 @@
 ### School CS
-11th and 12th PERFECT schools CS files from Harsh K
+11th and 12th PERFECT schools CS files from everyone and archive of everyone's project ideas.
 
 ### Table of Contents
 - [11th](11/README.md)
@@ -15,4 +15,4 @@
 - The `.vscode` files are configured for LINUX ONLY. (You are free to add your own config and open a PR)
 - Some of the files are linked to other files so you will have to download all of them.
 - All files that have a `© Harsh Khandeparkar` can only be READ and NOT MODIFIED or REDISTRIBUTED by you.
-- Maja maar. Fukat dila tuka.
+- Maja maar. Fukat dila tuka. Kay seriously gheunaka, sagli fakana.
