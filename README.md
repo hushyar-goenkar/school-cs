@@ -4,6 +4,7 @@
 ### Table of Contents
 - [11th](11/README.md)
 - [12th](12/README.md)
+- [projects](projects/)
 - [Contributing](CONTRIBUTING.md)
 
 **ALL .docx and .pdf code files are converted to .cpp**
