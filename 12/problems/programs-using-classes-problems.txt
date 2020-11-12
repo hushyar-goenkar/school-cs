@@ -1,0 +1,52 @@
+Converted from programs_using_classes.docx
+5. . Answer the questions (i), (ii) and (iii) after going through the following class.
+class Match
+{
+int Time;
+public :
+Match (int y) 			// Constructor 1
+{
+ Time = y;
+}
+Match (Match &m); 		// Constructor 2
+
+};
+    (i) Create an object of Match such that it invokes constructor 1 with time passed as 7.
+Match m(7);
+    (ii) Write the function definition for constructor 2.
+Match(match &m)
+{
+	Time= m.Time;
+}
+    (iii) Identify the type of constructors depicted in the above class
+Constructor 1 = parameterized constructor
+Constructor 2 = copy constructor
+6.  Answer the questions i) ii) and iii) after going through the following program
+class sports
+{
+int time;
+public :
+sports ( ) 	//function 1
+{
+time = 0;
+}
+void display ( ) 	// function 2
+{
+cout << “ It is a sports festival”;
+}
+sports ( int duration ) 		// function 3
+{
+time = duration;
+}
+sports(sports &sf ) 	//function 4
+{
+time =sf.duration;
+}
+};
+i) Which feature of object oriented programming is demonstrated using function 1,
+function 3 and function 4 ?    ---- Constructors
+ii) Which category of constructor function 4 belongs to and what is the purpose of using it? ----------Copy constructor
+iii) Identify the type of constructor depicted in function 3.-------- Parameterized constructor
+iv) Identify the type of constructor depicted in function 1. When will it be invoked?
+Default constructor and it is involved when a new object is being created.
+v) size of the object
