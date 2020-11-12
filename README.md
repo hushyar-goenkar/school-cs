@@ -9,6 +9,7 @@
 **Explanation for all of it is added as comments in the .cpp files, please read it.**
 
 ### Warnings
+- ALL contributions MUST FOLLOW [this](my-codes-style.md) code style.
 - The `.vscode` files are configured for LINUX ONLY. (You are free to add your own config and open a PR)
 - Some of the files are linked to other files so you will have to download all of them.
 - All files that have a `© Harsh Khandeparkar` can only be READ and NOT MODIFIED or REDISTRIBUTED by you.
