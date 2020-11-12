@@ -1,5 +1,5 @@
 ### School CS
-11th and 12th PERFECT schools CS files from everyone and archive of everyone's project ideas.
+11th and 12th PERFECT school CS files from everyone and archive of everyone's project ideas.
 
 ### Table of Contents
 - [11th](11/README.md)
