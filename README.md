@@ -1,6 +1,10 @@
 ### School CS
 11th and 12th PERFECT school CS files from everyone and archive of everyone's project ideas.
 
+**If you have created a project, PLEASE upload it here. See [this](CONTRIBUTING.md) for more info**
+
+**If you find anything missing, PLEASE open a PR. See [this](CONTRIBUTING.md) for more info**
+
 ### Table of Contents
 - [11th](11/README.md)
 - [12th](12/README.md)
