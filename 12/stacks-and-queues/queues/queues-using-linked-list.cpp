@@ -39,9 +39,6 @@ int main() {
 
     switch(choice) {
       case 1:
-        cout << "Enter element: " << ORANGE_NO_FLASH;
-        cin >> ele;
-
         q.enqueue();
         break;
 
