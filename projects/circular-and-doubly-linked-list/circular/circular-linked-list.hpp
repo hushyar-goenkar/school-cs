@@ -26,11 +26,6 @@ struct Node {
   int data;
 };
 
-/**
- * Class LINKEDLIST: A class that contains only a pointer to the first node as a property.
- * All the other nodes are defined and then pointers to those are added to the
- * start node and/or its child nodes.
- */
 class CircularLinkedList {
   Node *start;
 
