@@ -9,9 +9,9 @@ using namespace std;
 class Fibonacci {
   public:
     Fibonacci() {
-      int n; // Number of fibonacci terms to display; n to be entered by the user
-      int lastFibTerm = 1; // The last term in this sequence (considering the term before 1 to be 0)
-      int fibSum = 0; // The current sum of all terms ie the new term in the sequence (The sum of first 1 term is 1)
+      int n; // Number of fibonacci terms to display
+      int lastFibTerm = 1; // The last term in this sequence (considering the term before 0 to be 1)
+      int fibSum = 0; // The current sum of all terms ie the new term in the sequence (The sum of first 1 term is 0)
 
       cout << "Enter The Number of Terms: ";
       cin >> n;
