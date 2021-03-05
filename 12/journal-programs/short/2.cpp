@@ -25,12 +25,13 @@ class Sin {
       long double sine = 0;
 
       for (int i = 0; i < terms; i++) {
-        sine += (pow(angle, 2*i + 1) * pow(-1, i) ) / factorial(2*i + 1);
+        sine += (pow(angle, 2*i + 1) * pow(-1, i)) / factorial(2*i + 1);
       }
 
       cout << "Computed Sine: " << sine << endl;
-      cout << "Standar Library Sine: " << sin(angle) << endl;
+      cout << "Standard Library Sine: " << sin(angle) << endl;
     }
+
   private:
     long int factorial(long int n) {
       if (n == 0) return 1;
