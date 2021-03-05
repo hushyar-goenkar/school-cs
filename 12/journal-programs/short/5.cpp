@@ -40,3 +40,9 @@ class NUMBER_LIST {
       cout << "Product: " << product << endl;
     }
 };
+int main()  {
+  NUMBER_LIST num;
+  num.read_list();
+  num.calc_product();
+  return 0;
+}
