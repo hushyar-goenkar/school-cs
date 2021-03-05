@@ -12,12 +12,14 @@ using namespace std;
 class CountVowels {
   private:
     const char vowels[5] = { 'a', 'e', 'i', 'o', 'u' };
+
     bool isVowel(char c) {
       c = tolower(c);
 
       for (int i = 0; i < 5; i++) if (vowels[i] == c) return true;
       return false;
     }
+
   public:
     CountVowels() {
       string str;
