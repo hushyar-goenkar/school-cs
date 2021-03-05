@@ -1,5 +1,6 @@
 ### Files
 - [notes](notes/): PDF and docx notes.
+- [journal-programs](journal-programs/): Complete copy-pastable journal programs.
 - [problems](problems/): Practice papers and solutions to some of them.
 - [basics](basics/): Basics of C++ and classes.
 - [arrays and classes](arrays-classes/): Arrays and classes together.
