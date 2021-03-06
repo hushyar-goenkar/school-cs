@@ -40,3 +40,10 @@ class NUMBER_LIST {
       cout << "Product: " << product << endl;
     }
 };
+//Not asked for but required to run the program succesffuly
+int main()  {
+  NUMBER_LIST num;
+  num.read_list();
+  num.calc_product();
+  return 0;
+}
