@@ -1,7 +1,7 @@
 /**
  * STATEMENT: Write a menu driven program in C++ to push and pop a value
- * in a linked stack storing floating point numbers. Display the contents
- * of the stack after each operation.
+ * in a linked queue storing floating point numbers. Display the contents
+ * of the queue after each operation.
  */
 
 #include <iostream>
@@ -39,14 +39,23 @@ class LinkedList {
       return *this;
     }
 
-    LinkedList insertBeginning() {
-      Node *newNode = new Node;
+    LinkedList insertEnd() {
+      Node *newNode = new Node,
+      *t;
 
       cout << "Enter the data: ";
       cin >> newNode->data;
 
-      newNode->next = start;
-      start = newNode;
+      newNode->next = NULL;
+
+      if(start == NULL) start = newNode;
+      else {
+        t = start;
+
+        while(t->next != NULL) t = t->next;
+
+        t->next = newNode;
+      }
 
       return *this;
     }
@@ -66,31 +75,31 @@ class LinkedList {
     }
 };
 
-class Stack {
+class Queue {
   private:
-    LinkedList stack;
+    LinkedList queue;
 
   public:
-    void push() {
-      stack.insertBeginning();
+    void add() {
+      queue.insertEnd();
     }
 
-    void pop() {
-      stack.deleteBeginning();
+    void remove() {
+      queue.deleteBeginning();
     }
 
     void display() {
-      stack.display();
+      queue.display();
     }
 };
 
 int main() {
-  Stack S;
+  Queue Q;
   int choice = 1;
 
   while (true) {
-    cout << "1 - Push" << endl;
-    cout << "2 - Pop" << endl;
+    cout << "1 - Add" << endl;
+    cout << "2 - Remove" << endl;
     cout << "3 - Display" << endl;
     cout << "4 - Quit" << endl;
 
@@ -98,14 +107,14 @@ int main() {
     cin >> choice;
 
     if (choice == 1) {
-      S.push();
-      S.display();
+      Q.add();
+      Q.display();
     }
     else if (choice == 2) {
-      S.pop();
-      S.display();
+      Q.remove();
+      Q.display();
     }
-    else if (choice == 3) S.display();
+    else if (choice == 3) Q.display();
     else if (choice == 4) return 0;
   }
 }
