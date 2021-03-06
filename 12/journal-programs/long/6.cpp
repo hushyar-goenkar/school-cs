@@ -7,7 +7,7 @@
 #include <iostream>
 using namespace std;
 
-class InsertionIort {
+class InsertionSort {
   private:
     int *arr, N;
 
@@ -45,7 +45,7 @@ class InsertionIort {
 };
 
 int main() {
-  InsertionIort I;
+  InsertionSort I;
   int choice = 1;
 
   while (choice == 1 || choice == 2 || choice == 3) {
