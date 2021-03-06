@@ -20,7 +20,7 @@ class SmallerOfTheTwo {
     }
 
   public:
-    void get_data(double dOne, dobule dTwo) {
+    void get_data(double dOne, double dTwo) {
       d1 = dOne;
       d2 = dTwo;
     }
