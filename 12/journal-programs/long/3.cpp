@@ -78,9 +78,9 @@ class MatrixMultiplication {
       M2 = new int*[n];
       P = new int*[m];
 
-      for(int j = 0; j < n; j++) M1[j] = new int[n];
-      for(int j = 0; j < p; j++) M2[j] = new int[p];
-      for(int j = 0; j < p; j++) P[j] = new int[p];
+      for(int j = 0; j < m; j++) M1[j] = new int[n];
+      for(int j = 0; j < n; j++) M2[j] = new int[p];
+      for(int j = 0; j < m; j++) P[j] = new int[p];
 
       getMatrices();
       multiplyMatrices();
