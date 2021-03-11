@@ -1,0 +1,34 @@
+#1
+Enter m: 2
+Enter n: 3
+Enter row 1: 1 2 1
+Enter row 2: 2 2 1
+Input Matrix:
+1 2 1 
+2 2 1 
+Transpose:
+1 2 
+2 2 
+1 1 
+
+#2
+Enter m: 1
+Enter n: 2
+Enter row 1: 1 1
+Input Matrix:
+1 1 
+Transpose:
+1 
+1 
+
+#3
+Enter m: 2
+Enter n: 2
+Enter row 1: 2 3
+Enter row 2: 0 1
+Input Matrix:
+2 3 
+0 1 
+Transpose:
+2 0 
+3 1 
