@@ -1,0 +1,39 @@
+#1 --------------
+1 - Add
+2 - Remove
+3 - Display
+4 - Quit
+Enter option: 1
+Enter the data: 10
+Current: 10
+
+#2 --------------
+1 - Add
+2 - Remove
+3 - Display
+4 - Quit
+Enter option: 1
+Enter the data: 22
+Current: 22
+1 - Add
+2 - Remove
+3 - Display
+4 - Quit
+Enter option: 1
+Enter the data: 10
+Current: 22 10
+
+#3 --------------
+1 - Add
+2 - Remove
+3 - Display
+4 - Quit
+Enter option: 1
+Enter the data: 10
+Current: 10
+1 - Add
+2 - Remove
+3 - Display
+4 - Quit
+Enter option: 2
+Empty.
