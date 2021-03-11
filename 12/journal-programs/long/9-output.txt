@@ -1,0 +1,41 @@
+#1 ------------------------
+1 - Insert Data
+2 - Display
+3 - Quit
+Enter option: 1
+Enter empcode: 123
+Enter empname: xkcd
+Enter basic_pay: 120
+Enter allowance: 230
+************************************************************************************
+Sr No        Emp Code         Emp Name        Basic Pay       Allowance        Total
+1            123               xkcd            120             230               350
+************************************************************************************
+
+#2 ------------------------
+1 - Insert Data
+2 - Display
+3 - Quit
+Enter option: 1
+Enter empcode: 23
+Enter empname: Mr.X
+Enter basic_pay: 10
+Enter allowance: -20
+************************************************************************************
+Sr No        Emp Code         Emp Name        Basic Pay       Allowance        Total
+1            23               Mr.X            10             -20               -10
+************************************************************************************
+
+#3 ------------------------
+1 - Insert Data
+2 - Display
+3 - Quit
+Enter option: 1
+Enter empcode: 12
+Enter empname: name
+Enter basic_pay: -100
+Enter allowance: -200
+************************************************************************************
+Sr No        Emp Code         Emp Name        Basic Pay       Allowance        Total
+1            12               name            -100             -200               -300
+************************************************************************************
