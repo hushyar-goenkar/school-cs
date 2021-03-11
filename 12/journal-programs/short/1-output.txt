@@ -1,0 +1,14 @@
+#1
+Enter Number: 32
+Original Number: 32
+Reversed Number: 23
+
+#2
+Enter Number: 33
+Original Number: 33
+Reversed Number: 33
+
+#3
+Enter Number: 1
+Original Number: 1
+Reversed Number: 1
