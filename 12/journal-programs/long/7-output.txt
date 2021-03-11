@@ -1,0 +1,39 @@
+#1 ---------------
+1 - Push
+2 - Pop
+3 - Display
+4 - Quit
+Enter option: 1
+Enter the data: 21
+Current: 21
+
+#2 ---------------
+1 - Push
+2 - Pop
+3 - Display
+4 - Quit
+Enter option: 1
+Enter the data: 22
+Current: 22
+1 - Push
+2 - Pop
+3 - Display
+4 - Quit
+Enter option: 1
+Enter the data: 32
+Current: 32 22
+
+#3 ---------------
+1 - Push
+2 - Pop
+3 - Display
+4 - Quit
+Enter option: 1
+Enter the data: 23
+Current: 23
+1 - Push
+2 - Pop
+3 - Display
+4 - Quit
+Enter option: 2
+Empty.
