@@ -1,0 +1,17 @@
+#1
+Enter N: 5
+N Numbers: 12 17 13 1 5 
+Numbers: 12 17 13 1 5 3 2 6 11 10 
+Product: 52509600
+
+#2
+Enter N: 2
+N Numbers: 12 17 
+Numbers: 12 17 13 1 5 3 2 6 11 10 
+Product: 52509600
+
+#3
+Enter N: 3
+N Numbers: 12 17 13 
+Numbers: 12 17 13 1 5 3 2 6 11 10 
+Product: 52509600
