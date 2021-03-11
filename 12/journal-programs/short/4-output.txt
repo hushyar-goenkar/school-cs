@@ -1,0 +1,14 @@
+#1
+Enter the string: hello
+String: hello
+Vowels: 2
+
+#2
+Enter the string: aEiOU
+String: aEiOU
+Vowels: 5
+
+#3
+Enter the string: xkcd
+String: xkcd
+Vowels: 0
