@@ -1,0 +1,37 @@
+#1
+Enter size of array: 3
+Enter 0th element: 0
+Enter 1th element: 54
+Enter 2th element: 20
+Array: 0 54 20 
+1 - Enter New Array
+2 - Sort
+3 - Display
+4 - Quit
+Enter option: 2
+Array: 0 20 54
+
+#2
+Enter size of array: 1
+Enter 0th element: 23
+Array: 23 
+1 - Enter New Array
+2 - Sort
+3 - Display
+4 - Quit
+Enter option: 2
+Array: 23
+
+#3
+Enter size of array: 4
+Enter 0th element: 21
+Enter 1th element: 21
+Enter 2th element: 22
+Enter 3th element: 10
+Array: 21 21 22 10 
+1 - Enter New Array
+2 - Sort
+3 - Display
+4 - Quit
+Enter option: 2
+Array: 10 21 21 22
