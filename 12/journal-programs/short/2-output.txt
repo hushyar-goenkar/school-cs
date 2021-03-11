@@ -1,0 +1,17 @@
+#1
+Enter Angle in Radians: 3.14
+Enter Number of Terms: 15
+Computed Sine: 0.00156114
+Standard Library Sine: 0.00159255
+
+#2
+Enter Angle in Radians: 1.57
+Enter Number of Terms: 15
+Computed Sine: 1
+Standard Library Sine: 1
+
+#3
+Enter Angle in Radians: 0
+Enter Number of Terms: 2
+Computed Sine: 0
+Standard Library Sine: 0
