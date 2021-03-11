@@ -1,0 +1,20 @@
+#1
+Enter num1: 3
+Enter num2: 5
+num1: 3
+num2: 5
+sum: 8
+
+#2
+Enter num1: 1
+Enter num2: 6
+num1: 1
+num2: 6
+sum: 7
+
+#3
+Enter num1: 22
+Enter num2: 32
+num1: 22
+num2: 32
+sum: 54
