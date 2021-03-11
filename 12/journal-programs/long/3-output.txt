@@ -1,0 +1,62 @@
+#1 -----------------------
+Enter m: 1
+Enter n: 2
+Enter p: 1
+Enter matrix M1(1x2)
+Enter row 1: 1 2
+Enter matrix M2(2x1)
+Enter row 1: 2 
+Enter row 2: 3
+
+Matrix M1: 
+1 2 
+
+Matrix M2: 
+2 
+3 
+
+Matrix P(M1xM2): 
+8
+
+#2 -----------------------
+Enter m: 2
+Enter n: 3
+Enter p: 3
+Enter matrix M1(2x3)
+Enter row 1: 2 1 2
+Enter row 2: 1 1 2
+Enter matrix M2(3x3)
+Enter row 1: 1 2 1
+Enter row 2: 2 2 2
+Enter row 3: 0 0 0
+
+Matrix M1: 
+2 1 2 
+1 1 2 
+
+Matrix M2: 
+1 2 1 
+2 2 2 
+0 0 0 
+
+Matrix P(M1xM2): 
+4 6 4 
+3 4 3
+
+#3 -----------------------
+Enter m: 1
+Enter n: 1
+Enter p: 2
+Enter matrix M1(1x1)
+Enter row 1: 1
+Enter matrix M2(1x2)
+Enter row 1: 20 21
+
+Matrix M1: 
+1 
+
+Matrix M2: 
+20 21 
+
+Matrix P(M1xM2): 
+20 21
