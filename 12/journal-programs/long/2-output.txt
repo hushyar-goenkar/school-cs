@@ -1,0 +1,20 @@
+#1
+Enter array A(size 5): 0 2 23 25 100
+Enter array B(size 5): 1 2 3 4 5
+Array A: 0 2 23 25 100 
+Array B: 1 2 3 4 5 
+Array C: 0 1 2 2 3 4 5 23 25 100 
+
+#2
+Enter array A(size 5): 2 22 222 2222 22222 
+Enter array B(size 5): 0 0 0 0 0
+Array A: 2 22 222 2222 22222 
+Array B: 0 0 0 0 0 
+Array C: 0 0 0 0 0 2 22 222 2222 22222
+
+#3
+Enter array A(size 5): 1 1 1 1 1
+Enter array B(size 5): 2 2 2 2 2
+Array A: 1 1 1 1 1 
+Array B: 2 2 2 2 2 
+Array C: 1 1 1 1 1 2 2 2 2 2 
