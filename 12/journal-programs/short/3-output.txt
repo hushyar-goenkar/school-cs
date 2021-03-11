@@ -1,0 +1,10 @@
+#1
+Enter The Number of Terms: 5
+0 1 1 2 3 
+
+#2
+Enter The Number of Terms: 0
+
+#3
+Enter The Number of Terms: 6
+0 1 1 2 3 5 
