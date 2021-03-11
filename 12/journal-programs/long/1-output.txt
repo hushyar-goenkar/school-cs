@@ -1,0 +1,40 @@
+#1
+Enter size of array: 4
+Enter sorted array only.
+Enter 0th element: 2
+Enter 1th element: 3
+Enter 2th element: 8
+Enter 3th element: 10
+Array: 2 3 8 10 
+1 - Enter New Array
+2 - Search Element
+3 - Quit
+Enter option: 2
+Enter element to be searched: 3
+Fount at index: 1
+
+#2
+Enter size of array: 3
+Enter sorted array only.
+Enter 0th element: 0 
+Enter 1th element: 23
+Enter 2th element: 100
+Array: 0 23 100 
+1 - Enter New Array
+2 - Search Element
+3 - Quit
+Enter option: 2
+Enter element to be searched: 32
+Not found.
+
+#3
+Enter size of array: 1
+Enter sorted array only.
+Enter 0th element: 23
+Array: 23 
+1 - Enter New Array
+2 - Search Element
+3 - Quit
+Enter option: 2
+Enter element to be searched: 23
+Fount at index: 0
