@@ -1,0 +1,20 @@
+#1
+Enter N(<=10): 3
+Enter N values: 2 3 4
+Array: 2 3 4 
+Min: 2
+Max: 4
+
+#2
+Enter N(<=10): 1
+Enter N values: 45
+Array: 45 
+Min: 45
+Max: 45
+
+#3
+Enter N(<=10): 4
+Enter N values: 0 3 20 10
+Array: 0 3 20 10 
+Min: 0
+Max: 20
