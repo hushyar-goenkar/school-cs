@@ -1,5 +1,5 @@
 /**
- * STATEMENT: Write a menu driven program in C++ to push and pop a value
+ * STATEMENT: Write a menu driven program in C++ to add and remove a value
  * in a linked queue storing floating point numbers. Display the contents
  * of the queue after each operation.
  */
